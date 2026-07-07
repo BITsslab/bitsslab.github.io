@@ -9,9 +9,9 @@ nav_order: 6
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - align: center
+  - align: left
     image: labphoto.jpg
-    image_width: 450px
+    image_width: 650px
     # content: about_liyuan_pan.md
     image_circular: false # crops the image to make it circular
     more_info: >
