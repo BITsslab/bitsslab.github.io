@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-I am looking for prospective PhD and Master students for the year 2027.
+I am looking for prospective PhD and Master’s students for 2027.
 
 ---
 
