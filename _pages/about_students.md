@@ -1,4 +1,6 @@
-博士生：
+**Student**
+
+PhD Candidate:
 
 2020: Yan Yang; 
 
@@ -12,24 +14,26 @@
 
 Xin Duan (Co-supervision with Dr. Xiabi Liu)
 
-硕士生：
+Master’s Candidate:
 
 2023: Ruikun Zhang, Zonglin Yang;
 
-2024: Jingtao Dong
+2024: Jingtao Dong；
 
-2025: Lingzhi Li, Yixuan Yin, Ying Liu
+2025: Lingzhi Li, Yixuan Yin, Ying Liu；
 
-2026: Xinyue Wei, Junhang Huang
+2026: Xinyue Wei, Junhang Huang；
 
-毕业生：
+**Alumni**
 
-PhD
+PhD:
 
 Mengqiao Han (Co-supervision with Dr. Xiabi Liu)
 
 Zhaoyang Hai (Co-supervision with Dr. Xiabi Liu)
 
-Master
+Master:
 
 Zonglin Yang 
+
+Ruikun Zhang
