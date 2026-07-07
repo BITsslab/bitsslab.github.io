@@ -9,14 +9,13 @@ nav_order: 6
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - align: left
+  - align: center
     image: labphoto.jpg
+    image_width: 450px
     # content: about_liyuan_pan.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>中心教学楼1305A</p>
       <p>北京理工大学中关村校区</p>
-      <p>liyuan.pan AT bit.edu.cn</p>
 
   - align: left
     content: about_students.md
