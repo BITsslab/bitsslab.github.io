@@ -28,6 +28,8 @@ Master’s Candidate:
 
 PhD:
 
+Yan Yang (Co-supervision with Dr. Eric Stone)
+
 Mengqiao Han (Co-supervision with Dr. Xiabi Liu)
 
 Zhaoyang Hai (Co-supervision with Dr. Xiabi Liu)
