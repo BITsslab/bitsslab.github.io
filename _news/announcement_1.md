@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am looking for prospective Ph.D. and master students for the year 2026.
+I am looking for prospective PhD and Master students for the year 2027.
