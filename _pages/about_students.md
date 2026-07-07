@@ -6,7 +6,11 @@
 
 2024: Hao Zhuang, Kailong Yu, Yudong Han;
 
-Xin Duan, Zhaoyang Hai (Co-supervision with Dr. Xiabi Liu)
+2025: Zonglin Yang, Qinfu Xu, Jiaqi Chen;
+
+2026: Xiaochen Zhang, Aoxiang Ning, Chuang Chen;
+
+Xin Duan (Co-supervision with Dr. Xiabi Liu)
 
 硕士生：
 
@@ -14,6 +18,16 @@ Xin Duan, Zhaoyang Hai (Co-supervision with Dr. Xiabi Liu)
 
 2024: Jingtao Dong
 
-毕业生：
+2025: Lingzhi Li, Yixuan Yin, Ying Liu
 
+2026: Xinyue Wei, Junhang Huang
+
+毕业生：
+PhD
 Mengqiao Han (Co-supervision with Dr. Xiabi Liu)
+
+Zhaoyang Hai (Co-supervision with Dr. Xiabi Liu)
+
+Master
+
+Zonglin Yang 
