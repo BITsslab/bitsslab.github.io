@@ -9,7 +9,7 @@ I am looking for prospective PhD and Master’s students for 2027.
 
 ---
 
-Two papers accepted to ECCV 26.
+Two papers accepted to ACM MM 26.
 
 ---
 
