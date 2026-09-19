@@ -5,7 +5,11 @@ inline: true
 related_posts: false
 ---
 
-I am looking for prospective PhD and Master’s students for 2027.
+I am serving as a Guest Editor for a Special Issue: Machine Learning-Enhanced Vision Sensing
+
+---
+
+I gave my talk at EBMV @ ECCV 2026, presenting our group’s event‑based research.
 
 ---
 
