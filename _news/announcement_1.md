@@ -13,19 +13,27 @@ I am serving as a Guest Editor for a Special Issue: Machine Learning-Enhanced Vi
 
 ---
 
+Three papers accepted to NeurIPS 26. Congratulations to Hao, Jingtao, and Yudong.
+
+---
+
+One paper accepted to ACCV. Congratulations to Yixuan.
+
+---
+
 I gave my talk at EBMV @ ECCV 2026, presenting our group’s event‑based research.
 
 ---
 
-Two papers accepted to ACM MM 26.
+Two papers accepted to ACM MM 26. Congratulations to Jiaqi.
 
 ---
 
-One paper accepted to ECCV 26.
+One paper accepted to ECCV 26. Congratulations to Zonglin.
 
 ---
 
-One paper accepted to IJCV 26.
+One paper accepted to IJCV 26. Congratulations to Kailong.
 
 ---
 
