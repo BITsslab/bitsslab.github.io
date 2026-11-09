@@ -24,6 +24,14 @@ Master’s Candidate:
 
 2026: Xinyue Wei, Junhang Huang；
 
+Intern:
+
+Hanqiu Zhou
+
+Yuyang Liu
+
+Chenxu Zhang
+
 **Alumni**
 
 PhD:
